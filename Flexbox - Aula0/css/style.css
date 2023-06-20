@@ -139,7 +139,7 @@ body {
 	text-align: center;
 }
 
-.rodapePrincipal-contatoForm label[for=email-contato] {
+.rodapePrincipal-contactoForm label[for=email-contato] {
 	font-weight: bold;
 	font-size: 14px;
 	color: #000;
@@ -147,13 +147,13 @@ body {
 	display: block;
 }
 
-.rodapePrincipal-contatoForm-emailInput {
+.rodapePrincipal-contactoForm-emailInput {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 	padding: 10px;
 }
 
-.rodapePrincipal-contatoForm-submit {
+.rodapePrincipal-contactoForm-submit {
 	border-top-right-radius: 5px;
 	border-bottom-right-radius: 5px;
 	background-color: #4DBA7A;
@@ -162,8 +162,8 @@ body {
 	
 }
 
-.rodapePrincipal-contatoForm-submit,
-.rodapePrincipal-contatoForm-emailInput {
+.rodapePrincipal-contactoForm-submit,
+.rodapePrincipal-contactoForm-emailInput {
 	outline: 0;
 	border: 1px solid #4DBA7A;
 	box-sizing: border-box;
@@ -205,7 +205,7 @@ body {
 	outline: none;
 }
 
-.rodapePrincipal-contatoForm-legend {
+.rodapePrincipal-contactoForm-legend {
 	margin-bottom: 10px;
 }
 
@@ -242,7 +242,7 @@ body {
 		margin: 0 0 0 10px;
 	}
 
-	.rodapePrincipal-contatoForm {
+	.rodapePrincipal-contactoForm {
 		margin-top: 0;
 		text-align: left;
 	}
